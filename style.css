@@ -1,0 +1,261 @@
+.intro {
+    display: inline-block;
+    width: 100%;
+    padding: 90px 0 120px;
+    background-color:#ffd152;
+  
+    background-size: cover;
+    font-size: 1.9em;
+    text-align: center;
+    color:#363639;
+  }
+  #img4{
+    margin: auto;
+    
+    
+    width: 250px;
+    height: 375px;
+  }
+  
+
+  hr.new1 {
+    border-top: 1px solid rgb(116, 76, 76);
+  }
+.bg-dark{
+    background-color: #363639 !important;
+    
+}
+#l1{
+  color: #ffd152;
+  text-decoration: underline;
+}
+  body {
+    width: 100%;
+    height: 100%;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+    font-family: "Quicksand";
+    font-size: 1.2em;
+    line-height: 1.375em;
+    padding: 0;
+    margin: 0;
+    background-color: #363639;
+  }
+  .About{
+      margin:auto;
+      margin-left: 80px;
+      margin-top: 50px;
+      color: #ffd152;  
+  }
+
+  .About2{
+    margin:auto;
+      margin-left: 80px;
+      margin-top: 55px;
+      color: #ffd152;  
+  }
+
+  #h3{
+    margin:auto;
+      margin-left: 80px;
+      margin-top: 100px;
+      color:  #ddd4b7; 
+  }
+  
+  .portfolio{
+       
+      background-color: rgb(27, 44, 59);  
+ }
+
+ 
+#img1{
+  margin:auto;
+  margin-left: 250px;
+  margin-top: 50px;
+
+}
+
+
+h2{
+  margin:auto;
+  margin-top: 25px;
+  margin-left: 635px;
+  color: #ddd4b7;
+}
+
+
+ .general{
+      margin:auto;
+      margin-left: 300px;
+      margin-top:-202px;
+      
+      color:  #ddd4b7; 
+ }
+ #h1{
+  color:#ddd4b7;
+  margin:auto;
+  margin-left: 80px;
+  
+
+  
+ }
+ #img5{
+   margin:auto;
+   margin-left: 255px;
+ }
+
+.gen{
+  margin:auto;
+  margin-left: 80px;
+  margin-top: 50px;
+
+  color: #ddd4b7;
+ 
+
+}
+
+#h2{
+  
+  color: #36342c;
+  
+}
+
+.cont{
+  background-color: #ddd4b7;
+}
+#ul1{
+  font-size: 50px;
+  color: #fff;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+
+footer{
+  position: static;
+  bottom: 0;
+}
+
+.footer-distributed{
+  background-color: #302f2f;
+  box-sizing: border-box;
+  width: 100%;
+  font: bold 16px;
+  padding: 50px 50px 60px 50px;
+}
+
+.footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right{
+  display: inline-block;
+  vertical-align: top;
+  margin: auto;
+  
+}
+
+.footer-distributed .footer-links{
+  color: #ffffff;
+}
+
+.footer-distributed .footer-links a{
+  margin-top: 15px;
+  display:inline-block;
+  line-height: 1.8;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.footer-distributed .footer-name{
+  color:  #8f9296;
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: -10px;
+}
+
+.footer-distributed .footer-center i{
+  background-color:  #ffffff;
+  color: #111111;
+  font-size: 25px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 42px;
+  margin: 10px 15px;
+  vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+  font-size: 17px;
+  line-height: 38px;
+}
+
+.footer-distributed .footer-center p{
+  display: inline-block;
+  color: #ffffff;
+  vertical-align: middle;
+  margin: 0;
+}
+
+#id{
+  display: block;
+  height: 20px;
+  width: 20px;
+}
+
+.footer-distributed .footer-center p span{
+  display:block;
+  font-weight: normal;
+  font-size:14px;
+  line-height:2;
+  margin: 0;
+}
+ 
+.title1{
+  font-weight: 1500;
+  font-size: 100px;
+}
+
+.footer-distributed .footer-center p a{
+  color:  #ffffff;
+  text-decoration: none;
+  margin: 0;
+}
+ 
+.footer-distributed .footer-right{
+  width: 20%;
+}
+ 
+.footer-distributed .footer-company-about{
+  line-height: 20px;
+  color:  #8f9296;
+  font-size: 13px;
+  margin: 0;
+}
+ 
+.footer-distributed .footer-company-about span{
+  display: block;
+  color:  #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+}
+ 
+.footer-distributed .footer-icons a{
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+  background-color:  #ffffff;
+  border-radius: 2px;
+ 
+  font-size: 20px;
+  color: #111111;
+  text-align: center;
+  line-height: 35px;
+  margin-right: 3px;
+  margin-bottom: 5px;
+}
