@@ -59,10 +59,15 @@
   }
 
   #h3{
-    margin:auto;
-      margin-left: 80px;
-      margin-top: 100px;
-      color:  #ddd4b7; 
+    margin-top: 40px  ;
+    text-align: center;
+    color:  #ddd4b7; 
+  }
+
+  #h11{
+    margin-top: 40px  ;
+    text-align: center;
+    color: #ddd4b7;
   }
   
   .portfolio{
@@ -79,12 +84,6 @@
 }
 
 
-h2{
-  margin:auto;
-  margin-top: 25px;
-  margin-left: 635px;
-  color: #ddd4b7;
-}
 
 
  .general{
